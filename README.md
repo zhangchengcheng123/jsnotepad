@@ -1,2 +1,0 @@
-# jsnotepad
-jsnotepad
